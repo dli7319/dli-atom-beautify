@@ -1,7 +1,7 @@
 {
   "name": "dli-atom-beautify",
   "main": "./src/beautify",
-  "version": "0.33.4",
+  "version": "0.33.5",
   "private": true,
   "description": "Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom",
   "repository": "https://github.com/dli7319/dli-atom-beautify.git",
